@@ -56,7 +56,7 @@ module de6 (s, r, clk, rst, q);
       endcase
     end
   end
-endmodule
+endmodule 
 ```
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
